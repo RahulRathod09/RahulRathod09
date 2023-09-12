@@ -11,7 +11,7 @@
 
 ---
 # 📊 GitHub Stats:
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RahulRathod09&theme=dark&background=000000)](https://git.io/streak-stats)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=rahulrathod09&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=RahulRathod09&theme=shades-of-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulrathod09&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
